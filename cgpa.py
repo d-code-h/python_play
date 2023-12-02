@@ -60,7 +60,7 @@ def start ():
 		print("Your SGPA for first semester is " + str(sgpa1))
 		print("Your SGPA for second semester is " + str(sgpa2))
 		print("Your CGPA is " + str(cgpa))
-		print("=====================================/n")
+		print("=====================================\n")
 		return
 	
 	
